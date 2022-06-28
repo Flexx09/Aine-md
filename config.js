@@ -21,6 +21,7 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   restapi: 'https://x-restapi.herokuapp.com'
+  zenz: 'https://zenzapis.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -32,6 +33,7 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'ZZBk7EBb',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://x-restapi.herokuapp.com': 'BETA'
+  'https://zenzapis.xyz': 'BagasGanz'
 }
 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
